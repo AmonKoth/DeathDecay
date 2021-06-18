@@ -1,6 +1,6 @@
 To play the game in browser use this link:
 
-
+https://amonkoth.github.io/DeathDecay/
 
 Movement:
 WASD
